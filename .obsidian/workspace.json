@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "html-css-bootcamp/HTML & CSS Bootcamp.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "html-css-bootcamp/HTML & CSS Bootcamp.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "html-css-bootcamp/HTML & CSS Bootcamp.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "html-css-bootcamp/HTML & CSS Bootcamp.md"
+                "file": "README.md"
               }
             }
           }
@@ -146,35 +146,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "65c9299d99a4ab21",
+  "active": "a6e394f3edc2dd8e",
   "lastOpenFiles": [
+    "web-development/modern-javascript/Modern JavaScript.md",
     "README.md",
-    "modern-javascript/Modern JavaScript.md",
-    "html-css-bootcamp/HTML & CSS Bootcamp.md",
-    "html-css-bootcamp/01-introduction/01-how-the-web-work.md",
-    "modern-javascript/01-variables-data-types/03-variables.md",
-    "html-css-bootcamp/01-introduction/images/how-the-web-work.png",
-    "html-css-bootcamp/01-introduction/images/http-response.png",
-    "html-css-bootcamp/01-introduction/images/web-server-response-analogy.png",
-    "modern-javascript/01-variables-data-types/02-comments-shortcuts.md",
-    "modern-javascript/01-variables-data-types/01-console.md",
+    "web-development/html-css-bootcamp/HTML & CSS Bootcamp.md",
+    "web-development/html-css-bootcamp/01-introduction/01-how-the-web-work.md",
+    "web-development",
+    "web-development/modern-javascript/01-variables-data-types/03-variables.md",
+    "web-development/html-css-bootcamp/01-introduction/images/how-the-web-work.png",
+    "web-development/html-css-bootcamp/01-introduction/images/http-response.png",
+    "web-development/html-css-bootcamp/01-introduction/images/web-server-response-analogy.png",
+    "web-development/modern-javascript/01-variables-data-types/02-comments-shortcuts.md",
+    "web-development/modern-javascript/01-variables-data-types/01-console.md",
     "client.png.md",
     "html-css-bootcamp/01-introductioin.md",
-    "html-css-bootcamp/01-introduction",
-    "modern-javascript/01-variables-data-types",
-    "html-css-bootcamp/01-introduction/images",
-    "html-css-bootcamp",
-    "modern-javascript/01-variables-data-types/images/log-with-style.png",
-    "modern-javascript/01-variables-data-types/images/console-group-result.png",
-    "modern-javascript/01-variables-data-types/images",
-    "modern-javascript/01-variables-data-types/images/console-table-method-result.png",
+    "web-development/html-css-bootcamp/01-introduction",
+    "web-development/modern-javascript/01-variables-data-types",
+    "web-development/html-css-bootcamp/01-introduction/images",
+    "web-development/html-css-bootcamp",
+    "web-development/modern-javascript/01-variables-data-types/images/log-with-style.png",
+    "web-development/modern-javascript/01-variables-data-types/images/console-group-result.png",
+    "web-development/modern-javascript/01-variables-data-types/images",
+    "web-development/modern-javascript/01-variables-data-types/images/console-table-method-result.png",
     "Modern JavaScript/Introduction.md",
     "Modern JavaScript/1 Introduction",
     "Web Developer Bootcamp - Colt Steele/01 An Introduction to Web Development.md",
     "HTML & CSS Bootcamp - Colt Steele/10 The Box Model",
     "HTML & CSS Bootcamp - Colt Steele/9 Selectors Part 1",
     "HTML & CSS Bootcamp - Colt Steele/8 More Text Styling",
-    "HTML & CSS Bootcamp - Colt Steele/7 Styling Text",
     "Murach's HTML5 & CSS3 4th Edition/Section 1/Section 1 - The Essential Concepts and Skills.md",
     "Web Developer Bootcamp - Colt Steele/images/client.png",
     "Murach's HTML5 & CSS3 4th Edition/Murach's HTML5 & CSS3 4th Edition.md",
@@ -192,7 +192,6 @@
     "behind-the-scene-browse-the-internet.png.md",
     "JavaScript The Definitive Guide/Chapter 1.md",
     "JavaScript The Definitive Guide/Chapter 2.md",
-    "CSharp Yellow Book/Chapter 1/Computers and Programs.md",
     "Untitled.canvas"
   ]
 }
