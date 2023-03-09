@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "939c314ee97e6088",
+        "id": "28bd2888b0842211",
         "type": "tabs",
         "children": [
           {
-            "id": "7c10d9bc75d6186e",
+            "id": "65c9299d99a4ab21",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "html-css-bootcamp/01-introduction/01-how-the-web-work.md",
+                "file": "html-css-bootcamp/HTML & CSS Bootcamp.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 221.50418853759766
+    "width": 290.50418853759766
   },
   "right": {
     "id": "2d3a3895609614ef",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "html-css-bootcamp/01-introduction/01-how-the-web-work.md",
+                "file": "html-css-bootcamp/HTML & CSS Bootcamp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "html-css-bootcamp/01-introduction/01-how-the-web-work.md",
+                "file": "html-css-bootcamp/HTML & CSS Bootcamp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "html-css-bootcamp/01-introduction/01-how-the-web-work.md"
+                "file": "html-css-bootcamp/HTML & CSS Bootcamp.md"
               }
             }
           }
@@ -146,16 +146,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a6e394f3edc2dd8e",
+  "active": "65c9299d99a4ab21",
   "lastOpenFiles": [
-    "http-response.png",
+    "README.md",
+    "modern-javascript/Modern JavaScript.md",
+    "html-css-bootcamp/HTML & CSS Bootcamp.md",
+    "html-css-bootcamp/01-introduction/01-how-the-web-work.md",
+    "modern-javascript/01-variables-data-types/03-variables.md",
+    "html-css-bootcamp/01-introduction/images/how-the-web-work.png",
+    "html-css-bootcamp/01-introduction/images/http-response.png",
     "html-css-bootcamp/01-introduction/images/web-server-response-analogy.png",
     "modern-javascript/01-variables-data-types/02-comments-shortcuts.md",
     "modern-javascript/01-variables-data-types/01-console.md",
-    "modern-javascript/01-variables-data-types/03-variables.md",
-    "html-css-bootcamp/01-introduction/01-how-the-web-work.md",
-    "how-the-web-work.png",
-    "html-css-bootcamp/01-introduction/images/how-the-web-work.png",
     "client.png.md",
     "html-css-bootcamp/01-introductioin.md",
     "html-css-bootcamp/01-introduction",
@@ -166,7 +168,6 @@
     "modern-javascript/01-variables-data-types/images/console-group-result.png",
     "modern-javascript/01-variables-data-types/images",
     "modern-javascript/01-variables-data-types/images/console-table-method-result.png",
-    "README.md",
     "Modern JavaScript/Introduction.md",
     "Modern JavaScript/1 Introduction",
     "Web Developer Bootcamp - Colt Steele/01 An Introduction to Web Development.md",
@@ -180,7 +181,6 @@
     "Web Developer Bootcamp - Colt Steele/images/request-to-web-server.png",
     "Eloquent JavaScript/Part 1 Language/Chapter 1 Values, Types and Operators.md",
     "Web Developer Bootcamp - Colt Steele/images/internet.png",
-    "Eloquent JavaScript/Part 1 Language/images/binary-number-of-13.png",
     "The Odin Project/Foundation/4 HTML Foundations.md",
     "The Odin Project/Foundation/2 Prerequisites.md",
     "[.md",
@@ -193,7 +193,6 @@
     "JavaScript The Definitive Guide/Chapter 1.md",
     "JavaScript The Definitive Guide/Chapter 2.md",
     "CSharp Yellow Book/Chapter 1/Computers and Programs.md",
-    "Untitled.md",
     "Untitled.canvas"
   ]
 }

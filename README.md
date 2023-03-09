@@ -1,8 +1,7 @@
-รวมลิ้งค์ไปยัง *note* ที่เคยจดเอาไว้ 
+# Obsidian Notes
 
-## Reading Process
-- อ่าน skimming
-- อ่าน scanning และ แปลส่วนสำคัญ
-- จัดให้อยู่ในคำพูดของตัวเอง
-- จดและเขียนทบทวน 1-3-7-30
+My Notes
 
+##  Web Development
+- [[HTML & CSS Bootcamp]]
+- [[Modern JavaScript]]
