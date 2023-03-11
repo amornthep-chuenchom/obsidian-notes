@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "28bd2888b0842211",
+        "id": "7aebe1e87cbaa35e",
         "type": "tabs",
         "children": [
           {
-            "id": "65c9299d99a4ab21",
+            "id": "e772f2f4c739ee84",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "web-development/modern-javascript/01-variables-data-types/04-data-types.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 290.50418853759766
+    "width": 317.50418853759766
   },
   "right": {
     "id": "2d3a3895609614ef",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "web-development/modern-javascript/01-variables-data-types/04-data-types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,8 +102,8 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
-                "linksCollapsed": false,
+                "file": "web-development/modern-javascript/01-variables-data-types/04-data-types.md",
+                "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "web-development/modern-javascript/01-variables-data-types/04-data-types.md"
               }
             }
           }
@@ -146,52 +146,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a6e394f3edc2dd8e",
+  "active": "e772f2f4c739ee84",
   "lastOpenFiles": [
-    "web-development/modern-javascript/Modern JavaScript.md",
-    "README.md",
-    "web-development/html-css-bootcamp/HTML & CSS Bootcamp.md",
-    "web-development/html-css-bootcamp/01-introduction/01-how-the-web-work.md",
-    "web-development",
     "web-development/modern-javascript/01-variables-data-types/03-variables.md",
-    "web-development/html-css-bootcamp/01-introduction/images/how-the-web-work.png",
-    "web-development/html-css-bootcamp/01-introduction/images/http-response.png",
-    "web-development/html-css-bootcamp/01-introduction/images/web-server-response-analogy.png",
-    "web-development/modern-javascript/01-variables-data-types/02-comments-shortcuts.md",
+    "web-development/modern-javascript/01-variables-data-types/04-data-types.md",
     "web-development/modern-javascript/01-variables-data-types/01-console.md",
+    "web-development/modern-javascript/03-functions-scope/05-nested-scope.md",
+    "web-development/modern-javascript/03-functions-scope/04-block-scope.md",
+    "web-development/modern-javascript/03-functions-scope/images/global-variable-var.png",
+    "web-development/modern-javascript/03-functions-scope/03-global-function-scope.md",
+    "web-development/html-css-bootcamp/02-html-basics/01-introducing-html.md",
+    "web-development/html-css-bootcamp/02-html-basics/images/markup-language-w-result.png",
+    "web-development/html-css-bootcamp/HTML & CSS Bootcamp.md",
+    "web-development/html-css-bootcamp/02-html-basics/images/markup-language-result.png",
+    "web-development/html-css-bootcamp/02-html-basics/images/markup-language.png",
+    "web-development/html-css-bootcamp/02-html-basics/images/hypertext.png",
+    "web-development/html-css-bootcamp/02-html-basics/images/html-logo.png",
+    "web-development/html-css-bootcamp/02-html-basics/images/html-logo.png",
+    "Untitled.md",
+    "web-development/html-css-bootcamp/01-introduction/01-how-the-web-works.md",
+    "web-development/html-css-bootcamp/01-introduction/02-the-roles-of-html-css-js.md",
+    "web-development/modern-javascript/03-functions-scope/images",
+    "web-development/modern-javascript/03-functions-scope/images/function-scope.png",
+    "web-development/modern-javascript/03-functions-scope/01-function-basics.md",
+    "web-development/modern-javascript/03-functions-scope/02-function-arguments.md",
+    "web-development/modern-javascript/03-functions-scope",
+    "web-development/modern-javascript/02-arrays-and-objects",
+    "web-development/modern-javascript/01-variables-data-types/02-comments-shortcuts.md",
+    "web-development/html-css-bootcamp/02-html-basics/images",
+    "web-development/html-css-bootcamp/02-html-basics",
+    "web-development/html-css-bootcamp/01-introduction/images/the-green-alien-dances.png",
+    "web-development/html-css-bootcamp/01-introduction/images/postman-logo.png",
+    "README.md",
+    "web-development/modern-javascript/Modern JavaScript.md",
+    "web-development",
     "client.png.md",
     "html-css-bootcamp/01-introductioin.md",
     "web-development/html-css-bootcamp/01-introduction",
     "web-development/modern-javascript/01-variables-data-types",
     "web-development/html-css-bootcamp/01-introduction/images",
     "web-development/html-css-bootcamp",
-    "web-development/modern-javascript/01-variables-data-types/images/log-with-style.png",
-    "web-development/modern-javascript/01-variables-data-types/images/console-group-result.png",
-    "web-development/modern-javascript/01-variables-data-types/images",
-    "web-development/modern-javascript/01-variables-data-types/images/console-table-method-result.png",
     "Modern JavaScript/Introduction.md",
-    "Modern JavaScript/1 Introduction",
     "Web Developer Bootcamp - Colt Steele/01 An Introduction to Web Development.md",
-    "HTML & CSS Bootcamp - Colt Steele/10 The Box Model",
-    "HTML & CSS Bootcamp - Colt Steele/9 Selectors Part 1",
-    "HTML & CSS Bootcamp - Colt Steele/8 More Text Styling",
     "Murach's HTML5 & CSS3 4th Edition/Section 1/Section 1 - The Essential Concepts and Skills.md",
-    "Web Developer Bootcamp - Colt Steele/images/client.png",
     "Murach's HTML5 & CSS3 4th Edition/Murach's HTML5 & CSS3 4th Edition.md",
-    "Web Developer Bootcamp - Colt Steele/images/request-to-web-server.png",
     "Eloquent JavaScript/Part 1 Language/Chapter 1 Values, Types and Operators.md",
-    "Web Developer Bootcamp - Colt Steele/images/internet.png",
     "The Odin Project/Foundation/4 HTML Foundations.md",
     "The Odin Project/Foundation/2 Prerequisites.md",
-    "[.md",
-    "Murach's.md",
-    "[Murach's.md",
-    "Web Development Bootcamp - Angela Yu/Section 2.md",
-    "Web Development Bootcamp - Angela Yu/Section 1.md",
-    "Pasted image 2023030707251.png.md",
-    "behind-the-scene-browse-the-internet.png.md",
-    "JavaScript The Definitive Guide/Chapter 1.md",
-    "JavaScript The Definitive Guide/Chapter 2.md",
     "Untitled.canvas"
   ]
 }

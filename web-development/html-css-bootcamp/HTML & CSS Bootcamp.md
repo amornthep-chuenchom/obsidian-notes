@@ -1,7 +1,7 @@
 # HTML & CSS Bootcamp
 
 ## Introduction
-- [[01-how-the-web-work]]
+- [[01-how-the-web-works]]
 
 
 

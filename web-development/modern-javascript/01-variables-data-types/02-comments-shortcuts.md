@@ -9,7 +9,7 @@ Comments ยังถูกใช้ในการปิดการทำง�
 ## Single Line Comments
 
 ใน JavaScript, single line comments ใช้เครื่องหมาย forward slashes 2 ตัว `//` โดยอะไรก็ตามที่อยู่หลังเครื่องหมายนี้ จะไม่ถูก interpret โดย JavaScript Interpreter
-```
+```javascript
 // This is a single line comment
 console.log("Hello World"); // This is a single line comment
 ```
@@ -17,7 +17,7 @@ console.log("Hello World"); // This is a single line comment
 ## Multi Line Comments
 
 ใน JavaScript, multi line comments ใช้เครื่องหมาย `/*` และ `*/` โดยอะไรก็ตามที่อยู่ระหว่าง 2 เครื่องหมายนี้ จะไม่ถูก Interpret โดย JavaScript Interpreter
-```
+```javascript
 /*
 This is multi line comment
 */
