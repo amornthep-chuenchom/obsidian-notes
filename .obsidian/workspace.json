@@ -8,18 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e772f2f4c739ee84",
+            "id": "7861e98648a86efc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "web-development/modern-javascript/01-variables-data-types/04-data-types.md",
+                "file": "web-development/modern-javascript/01-variables-data-types/05-stack-heap.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5f9762bf0694a1d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "web-development/modern-javascript/01-variables-data-types/06-type-conversion.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 317.50418853759766
+    "width": 258.5
   },
   "right": {
     "id": "2d3a3895609614ef",
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "web-development/modern-javascript/01-variables-data-types/04-data-types.md",
+                "file": "web-development/modern-javascript/01-variables-data-types/06-type-conversion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "web-development/modern-javascript/01-variables-data-types/04-data-types.md",
+                "file": "web-development/modern-javascript/01-variables-data-types/06-type-conversion.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "web-development/modern-javascript/01-variables-data-types/04-data-types.md"
+                "file": "web-development/modern-javascript/01-variables-data-types/06-type-conversion.md"
               }
             }
           }
@@ -146,53 +159,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e772f2f4c739ee84",
+  "active": "5f9762bf0694a1d6",
   "lastOpenFiles": [
-    "web-development/modern-javascript/01-variables-data-types/03-variables.md",
+    "web-development/modern-javascript/01-variables-data-types/05-stack-heap.md",
+    "web-development/modern-javascript/01-variables-data-types/06-type-conversion.md",
+    "web-development/modern-javascript/01-variables-data-types/images/stack6.png",
+    "web-development/modern-javascript/01-variables-data-types/images/stack6.png.crdownload",
+    "web-development/modern-javascript/01-variables-data-types/images/stack5.png",
+    "web-development/modern-javascript/01-variables-data-types/images/stack5.png.crdownload",
+    "web-development/modern-javascript/01-variables-data-types/images/stack4.png",
+    "web-development/modern-javascript/01-variables-data-types/images/stack4.png.crdownload",
+    "web-development/modern-javascript/01-variables-data-types/images/stack3.png",
+    "web-development/modern-javascript/01-variables-data-types/images/stack3.png.crdownload",
+    "web-development/modern-javascript/01-variables-data-types/images/stack2.png",
+    "web-development/modern-javascript/01-variables-data-types/images/stack2.png.crdownload",
+    "web-development/modern-javascript/01-variables-data-types/images/stack1.png",
+    "web-development/modern-javascript/01-variables-data-types/images/stack1.png.crdownload",
+    "web-development/html-css-bootcamp/02-html-basics/01-introducing-html.md",
+    "web-development/html-css-bootcamp/02-html-basics/images/markup-language-w-result.png",
     "web-development/modern-javascript/01-variables-data-types/04-data-types.md",
+    "web-development/modern-javascript/01-variables-data-types/03-variables.md",
+    "web-development/html-css-bootcamp/02-html-basics/images/hypertext.png",
     "web-development/modern-javascript/01-variables-data-types/01-console.md",
     "web-development/modern-javascript/03-functions-scope/05-nested-scope.md",
     "web-development/modern-javascript/03-functions-scope/04-block-scope.md",
     "web-development/modern-javascript/03-functions-scope/images/global-variable-var.png",
     "web-development/modern-javascript/03-functions-scope/03-global-function-scope.md",
-    "web-development/html-css-bootcamp/02-html-basics/01-introducing-html.md",
-    "web-development/html-css-bootcamp/02-html-basics/images/markup-language-w-result.png",
     "web-development/html-css-bootcamp/HTML & CSS Bootcamp.md",
     "web-development/html-css-bootcamp/02-html-basics/images/markup-language-result.png",
-    "web-development/html-css-bootcamp/02-html-basics/images/markup-language.png",
-    "web-development/html-css-bootcamp/02-html-basics/images/hypertext.png",
-    "web-development/html-css-bootcamp/02-html-basics/images/html-logo.png",
-    "web-development/html-css-bootcamp/02-html-basics/images/html-logo.png",
     "Untitled.md",
     "web-development/html-css-bootcamp/01-introduction/01-how-the-web-works.md",
     "web-development/html-css-bootcamp/01-introduction/02-the-roles-of-html-css-js.md",
     "web-development/modern-javascript/03-functions-scope/images",
-    "web-development/modern-javascript/03-functions-scope/images/function-scope.png",
     "web-development/modern-javascript/03-functions-scope/01-function-basics.md",
     "web-development/modern-javascript/03-functions-scope/02-function-arguments.md",
     "web-development/modern-javascript/03-functions-scope",
     "web-development/modern-javascript/02-arrays-and-objects",
     "web-development/modern-javascript/01-variables-data-types/02-comments-shortcuts.md",
     "web-development/html-css-bootcamp/02-html-basics/images",
-    "web-development/html-css-bootcamp/02-html-basics",
-    "web-development/html-css-bootcamp/01-introduction/images/the-green-alien-dances.png",
-    "web-development/html-css-bootcamp/01-introduction/images/postman-logo.png",
     "README.md",
     "web-development/modern-javascript/Modern JavaScript.md",
-    "web-development",
     "client.png.md",
     "html-css-bootcamp/01-introductioin.md",
-    "web-development/html-css-bootcamp/01-introduction",
-    "web-development/modern-javascript/01-variables-data-types",
-    "web-development/html-css-bootcamp/01-introduction/images",
-    "web-development/html-css-bootcamp",
     "Modern JavaScript/Introduction.md",
     "Web Developer Bootcamp - Colt Steele/01 An Introduction to Web Development.md",
     "Murach's HTML5 & CSS3 4th Edition/Section 1/Section 1 - The Essential Concepts and Skills.md",
     "Murach's HTML5 & CSS3 4th Edition/Murach's HTML5 & CSS3 4th Edition.md",
     "Eloquent JavaScript/Part 1 Language/Chapter 1 Values, Types and Operators.md",
     "The Odin Project/Foundation/4 HTML Foundations.md",
-    "The Odin Project/Foundation/2 Prerequisites.md",
     "Untitled.canvas"
   ]
 }

@@ -21,10 +21,8 @@ if (true) {
 console.log(name);  // Metin
 ```
 
-
-`var` และ `let` มีการหลักทำงานที่เหมือนกัน ส่วน `const` นั้นแตกต่างออกไปนิดหน่อย
-
-%%`global scope` หมายถึง ไม่ได้อยู่ใน function หรือ control structure (block `{...}`)%%
+`global scope` หมายถึง ไม่ได้อยู่ใน function หรือ control structure (block `{...}`)
+ใน `global scope` นั้น `var` และ `let` มีการหลักทำงานที่เหมือนกัน ส่วน `const` นั้นแตกต่างออกไปนิดหน่อย
 
 example: 
 ```javascript
@@ -134,7 +132,7 @@ console.log(person);
 */
 ```
 
-## Declaring multiple values at once
+## Declaring multiple variables at once
 
 หากต้องการประกาศตัวแปรหลายตัว เราไม่จำเป็นต้องประกาศตัวแปรทีละบรรทัด, เราสามารถประกาศตัวแปรหลาย ๆ ตัวพร้อมกันทีเดียว ในบรรทัดเดียวกันได้เลย
 
